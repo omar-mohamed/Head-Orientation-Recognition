@@ -13,4 +13,4 @@ The project contains 4 main features :
 
 3)Classify an input image using the pretrained neural network which achieved an accuracy of 97.83% on a 6000 test image.
 
-4)Use Principal Component Analysis(PCA) using Generalized Hebbian Algorithm to compress a folder with images to any number of features he specifies and save the compressed images in a text file.
+4)Use Principal Component Analysis(PCA) using Generalized Hebbian Algorithm to compress a folder with images to any number of features he specifies and save the compressed images in a text file and the PCA weights.
